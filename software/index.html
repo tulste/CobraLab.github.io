@@ -3,3 +3,10 @@ title: Software
 layout: page
 ---
 
+<ul>
+  {% for doc in site.software %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
