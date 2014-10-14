@@ -11,7 +11,7 @@ title:            CoBrA Lab
 tagline:          'Computational Brain Anatomy Laboratory at the Douglas Institute'
 description:      ''
 url:              http://cobralab.ca
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Gabriel Devenyi'
