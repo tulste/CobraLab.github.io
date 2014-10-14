@@ -6,7 +6,7 @@ layout: page
 <ul>
   {% for doc in site.members %}
     <li>
-      <a href="{{ doc.url }}">{{ doc.title }}</a>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
   {% endfor %}
 </ul>
