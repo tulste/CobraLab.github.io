@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/cobralab/hyde
+  repo:           https://github.com/cobralab
 
 collections:
   members:
