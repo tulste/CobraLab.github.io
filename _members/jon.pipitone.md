@@ -1,6 +1,6 @@
 ---
 title: Jon Pipitone
-layout: default
+layout: pagenonav
 ---
 
-My name is Jon Pipitone. I am not part of this lab.
+My name is Jon Pipitone. I am not part of this lab(anymore).

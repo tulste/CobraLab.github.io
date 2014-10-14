@@ -1,6 +1,6 @@
 ---
 title: Roberto S.C. Amaral
-layout: default
+layout: pagenonav
 ---
 
 ![robertoamaral](https://avatars2.githubusercontent.com/u/6662973?v=2&s=400)

@@ -1,8 +1,7 @@
 ---
 title: Stefanie Kübel 
-layout: default
+layout: pagenonav
 ---
-Stefanie Kübel
 
 I'm doing my master's in biology with a major in neuroscience at ETH Zurich and currently a proud member of the Cobra Lab. That said, I'm particular interested in neurodegenerative diseases such as Parkinson's Disease (PD). During my work here I will analyze data from the Parkinson’s Progression Markers Initiative (For further information please have a look at: www.ppmi-info.org). 
 

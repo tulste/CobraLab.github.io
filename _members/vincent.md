@@ -1,10 +1,7 @@
 ---
 title: Vincent Kong
-layout: default 
+layout: pagenonav
 ---
-
-Vincent Kong
-============
 
 ![Vincent](/images/vincent.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: Raihaan Patel
-layout: default
+layout: pagenonav
 ---
 
 Hello, my name is Raihaan Patel.
