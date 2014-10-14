@@ -2,7 +2,7 @@
 title: 3T In Vivo High-Resolution Atlas of the Hippocampus and Subfields
 layout: default
 ---
-![Winterburn Atlas Montage](images/winterburn_atlas_montage_1024.png "Winterburn Atlas Montage")
+![Winterburn Atlas Montage]({{ site.baseurl }}/images/winterburn_atlas_montage_1024.png "Winterburn Atlas Montage")
 
 The hippocampus is a neuroanatomical structure that has been widely studied in the context of learning, memory, stress, and neurodegeneration. Neuroanatomically, the hippocampus is subdivided into several subfields with intricate morphologies and complex three-dimensional relationships. 
 

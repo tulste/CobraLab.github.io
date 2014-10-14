@@ -2,7 +2,7 @@
 title: 3T In Vivo High-Resolution Atlas of the Cerebellum and Lobules
 layout: default
 ---
-![Cerebellum Atlas](images/cerebellum_manual_segmentation_figure.png "Cerebellum Atlas")
+![Cerebellum Atlas]({{ site.baseurl}}/images/cerebellum_manual_segmentation_figure.png "Cerebellum Atlas")
 
 We present a novel set of high-resolution in vivo atlases of the cerebellum developed by pairing MR imaging with a carefully validated manual segmentation protocol. 
 
