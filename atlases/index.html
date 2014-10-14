@@ -1,0 +1,12 @@
+---
+title: MRI-Based Digital Brain Atlases
+layout: page
+---
+
+<ul>
+  {% for doc in site.atlases %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
