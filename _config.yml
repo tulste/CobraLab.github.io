@@ -9,9 +9,9 @@ relative_permalinks: true
 # Setup
 title:            CoBrA Lab
 tagline:          'Computational Brain Anatomy Laboratory at the Douglas Institute'
-description:      ''
+description:      'Computational Brain Anatomy Laboratory at the Douglas Institute'
 url:              http://cobralab.ca
-baseurl:          
+baseurl:
 
 author:
   name:           'Gabriel Devenyi'
