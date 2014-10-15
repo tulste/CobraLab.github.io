@@ -34,3 +34,5 @@ collections:
       output: true
   projects:
       output: true
+  alumni:
+      output: true
