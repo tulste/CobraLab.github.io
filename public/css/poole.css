@@ -293,6 +293,16 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
+.widecontainer {
+  max-width: 65rem;
+  padding-left:  6rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+
+
 
 /*
  * Masthead

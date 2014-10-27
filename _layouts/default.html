@@ -7,6 +7,8 @@
 
     {% include sidebar.html %}
 
+    {% if page.url == "/" %} {% include masthead.html %} {% endif %}
+
     <div class="content container">
       {{ content }}
     </div>
