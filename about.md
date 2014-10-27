@@ -8,3 +8,4 @@ Our group is a multi-disciplinary laboratory that is interested the anatomy of t
 To do so, we use and develop sophisticated computation neuroanatomy techniques that are able to automatically parse the geomtric complexity of brain anatomy.
 Our group is a multidisciplinary group of neuroscientists, computer scientists, engineers, and physicists all working towards a common goal of improving our understanding of the structure-function relationships of the brain through health and illness.
 We publicly disseminate much of the algorithmic and atlas work that we do in an effort to promote open and reproducible science.
+![Hippocampus Subfields]({{ site.baseurl }}/images/brain_w_hippocampus.png)
