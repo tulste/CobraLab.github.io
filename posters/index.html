@@ -1,0 +1,13 @@
+---
+title: Posters
+layout: page
+posters:
+  - Winterburn.J.Schizophrenia.Research.Day.2014
+  - Amaral.R.HBM.2014
+  - Amaral.R.SFN.2014
+---
+
+  {% for poster in page.posters %}
+      <a href="{{ site.baseurl }}/posters/{{ poster }}.pdf"><img src="{{ site.baseurl }}/posters/{{ poster }}.jpg"></a>
+      <br>
+  {% endfor %}
