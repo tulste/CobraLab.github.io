@@ -26,5 +26,5 @@ Citation:
 
 Note: Corrections made to NIfTI label files and README on 22 March, 2013. For more information contact winterburn.julie@gmail.com.
 
- - [WinterburnHippocampalAtlas_MINC.zip](https://docs.google.com/forms/d/1dXcUdrQMxDY8f4qKIAJAEATb8Jn1Hz5m1cy7PwdBR_s/viewform) (4.6GB) - Updated 22 March, 2013
- - [WinterburnHippocampalAtlas_NIfTI.zip](https://docs.google.com/forms/d/1dXcUdrQMxDY8f4qKIAJAEATb8Jn1Hz5m1cy7PwdBR_s/viewform) (4.4GB) - Updated 22 March, 2013
+ - [WinterburnHippocampalAtlas_MINC.zip](http://cobralab.net/files/WinterburnHippocampalAtlas_MINC.zip) (4.3GB) - Updated 20 July, 2015
+ - [WinterburnHippocampalAtlas_NIfTI.zip](http://cobralab.net/files/WinterburnHippocampalAtlas_NIfTI.zip) (4.1GB) - Updated 20 July, 2015
