@@ -1,5 +1,5 @@
 ---
-title: Daniel Gallino 
+title: Daniel Gallino M.Sc.
 layout: pagenonav
 ---
 ![Daniel Gallino]({{ site.baseurl }}/images/dan.gallino.jpg)
