@@ -26,13 +26,21 @@ github:
   repo:           https://github.com/cobralab
 
 collections:
-  members:
+  staff:
+      output: true
+  staffpast:
+      output: true
+  grad:
+      output: true
+  gradpast:
+      output: true
+  undergrad:
+      output: true
+  undergradpast:
       output: true
   software:
       output: true
   atlases:
       output: true
   projects:
-      output: true
-  alumni:
       output: true

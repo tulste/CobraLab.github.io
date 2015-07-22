@@ -5,16 +5,64 @@ layout: page
 
 <ul>
   {% for doc in site.members %}
+     <li>
+       <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+     </li>
+  {% endfor %}
+</ul>
+
+<h1>Staff</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.staff %}
     <li>
       <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
-<h1>Alumni</h1>
-
+<h2>Alumni</h2>
 <ul>
-  {% for doc in site.alumni %}
+  {% for doc in site.staffpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+<h1>Graduate Students</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.grad %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.gradpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Undergraduate Students</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.undergrad %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.undergrad_past %}
     <li>
       <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
