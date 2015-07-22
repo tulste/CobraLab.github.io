@@ -7,9 +7,10 @@ posters:
   - Amaral.R.SFN.2014
   - Shenker.J.SOBP.2015
   - Winterburn.J.SOBP.2015
+  - Viviano.J.HBM.2015
 ---
 
-  {% for poster in page.posters %}
+  {% for poster in page.posters reversed %}
       <a href="{{ site.baseurl }}/posters/{{ poster }}.pdf"><img src="{{ site.baseurl }}/posters/{{ poster }}.jpg"></a>
       <br>
   {% endfor %}
