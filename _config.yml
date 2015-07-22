@@ -44,3 +44,5 @@ collections:
       output: true
   projects:
       output: true
+  members:
+      output: true
