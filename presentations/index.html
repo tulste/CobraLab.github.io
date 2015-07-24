@@ -3,9 +3,10 @@ title: Presentations
 layout: page
 presentations:
   - Chakravarty.M.CIC.2014.12.09
+  - Shenker.J.Douglas.Research.Day.2015
 ---
 
-  {% for presentation in page.presentations %}
+  {% for presentation in page.presentations reversed %}
       <a href="{{ site.baseurl }}/presentations/{{ presentation }}.pdf"><img src="{{ site.baseurl }}/presentations/{{ presentation }}.jpg"></a>
       <br>
   {% endfor %}
