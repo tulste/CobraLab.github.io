@@ -23,6 +23,4 @@ Citation:
 
 ## Download
 
-- [Cerebellum_atlases.zip](https://docs.google.com/a/cobralab.ca/forms/d/1TceLn3MBTAFdKoi7-L_Vi7tKh2fIus8VTsGTWTpXLAI/viewform) (2.7G) - MINC format
-
-Last updated: May 27th, 2014
+- [Cerebellum_atlases.zip](http://goo.gl/forms/LWjc4Ko2tN) (2.7G) - MINC format Last updated: May 27th, 2014
