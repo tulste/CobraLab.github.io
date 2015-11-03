@@ -38,6 +38,10 @@ collections:
       output: true
   undergradpast:
       output: true
+  postdocs:
+      output: true
+  postdocspast:
+      output: true
   software:
       output: true
   atlases:

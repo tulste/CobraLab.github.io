@@ -11,6 +11,25 @@ layout: page
   {% endfor %}
 </ul>
 
+<h1>Post-Doctoral Researchers</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.postdocs %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.postdocspast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <h1>Staff</h1>
 <h2>Current</h2>
 <ul>
