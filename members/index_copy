@@ -1,0 +1,89 @@
+---
+title: Lab Members
+layout: page
+---
+
+<ul>
+  {% for doc in site.members %}
+     <li>
+       <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+     </li>
+  {% endfor %}
+</ul>
+
+<h1>Post-Doctoral Researchers</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.postdocs %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.postdocspast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Staff</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.staff %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.staffpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+<h1>Graduate Students</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.grad %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.gradpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Undergraduate Students</h1>
+<h2>Current</h2>
+<ul>
+  {% for doc in site.undergrad %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+<ul>
+  {% for doc in site.undergradpast %}
+    <li>
+      <a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
