@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Jake
+title: Congratulations to Jake on graduating from the IPN program with a M.Sc. in Neuroscience
 ---
 
 The CoBrA lab would like to congratulate Jake on graduating with a degree of M.Sc.in Neuroscience from the Integrated Program in Neuroscience from McGill University! 
