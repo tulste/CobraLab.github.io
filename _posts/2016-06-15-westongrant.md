@@ -1,13 +1,8 @@
 ---
 layout: post
-title: 
+title: Weston Brain Institute Funding for Alzheimer's disease Biomarkers Research
 ---
 
-Weston Brain Institute's Rapid Response 2015 program
+Our lab leader Dr. Mallar Chakravarty was granted funding from the Weston Brain Institute's Rapid Response program to support our laboratory's new exciting work investigating MR imaging and genetic-based biomarkers to identify risk for Alzheimer's disease.
 
-The prevalence of neurodegenerative diseases of aging is high and growing rapidly. The Rapid Response program was created to catalyze and jumpstart the development of safe and effective treatments for these diseases. The program provides short-term grants as seed funding for novel, high-risk, high-reward translational research projects. Proposed projects may relate to any disease; however, the basis for selection will be on the potential impact of the project on neurodegenerative diseases of aging.
-
-Projects can request up to $150,000 over up to 12-18 months.
-
-provide you with funding in the amount of $148,225.00 to support your exciting work as described in your Proposal 'High-resolution memory-circuit biomarkers for identifying risk for Alzheimer's disease'.
-
+For more information about this project visit [High-resolution memory-circuit biomarkers for identifying risk for Alzheimer's disease](http://www.cobralab.ca/projects/adbiomarkers) or [Weston Brain Institute](http://westonbraininstitute.ca/funded-research/projects/high-resolution-memory-circuit-biomarkers-for-identifying-risk-for-alzheimers-disease/).
