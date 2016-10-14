@@ -9,7 +9,6 @@ The Cobra Lab returned to Camp Kanawana for their second annual lab retreat. We 
 
 
 ![lakeside](/images/lakeside_view.png)
-![kayak](/images/kayak_selfie.png)
 ![paddleboard](/images/lakeside_fun.JPG)
 ![yoga](/images/morning_yoga.JPG)
 ![campfire](/images/campfire-photo-2016.jpg)
